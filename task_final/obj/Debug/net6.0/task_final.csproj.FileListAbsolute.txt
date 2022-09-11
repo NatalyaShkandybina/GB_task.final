@@ -1,0 +1,15 @@
+C:\GeekBrains\task.final\task_final\bin\Debug\net6.0\task_final.exe
+C:\GeekBrains\task.final\task_final\bin\Debug\net6.0\task_final.deps.json
+C:\GeekBrains\task.final\task_final\bin\Debug\net6.0\task_final.runtimeconfig.json
+C:\GeekBrains\task.final\task_final\bin\Debug\net6.0\task_final.dll
+C:\GeekBrains\task.final\task_final\bin\Debug\net6.0\task_final.pdb
+C:\GeekBrains\task.final\task_final\obj\Debug\net6.0\task_final.csproj.AssemblyReference.cache
+C:\GeekBrains\task.final\task_final\obj\Debug\net6.0\task_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\task.final\task_final\obj\Debug\net6.0\task_final.AssemblyInfoInputs.cache
+C:\GeekBrains\task.final\task_final\obj\Debug\net6.0\task_final.AssemblyInfo.cs
+C:\GeekBrains\task.final\task_final\obj\Debug\net6.0\task_final.csproj.CoreCompileInputs.cache
+C:\GeekBrains\task.final\task_final\obj\Debug\net6.0\task_final.dll
+C:\GeekBrains\task.final\task_final\obj\Debug\net6.0\refint\task_final.dll
+C:\GeekBrains\task.final\task_final\obj\Debug\net6.0\task_final.pdb
+C:\GeekBrains\task.final\task_final\obj\Debug\net6.0\task_final.genruntimeconfig.cache
+C:\GeekBrains\task.final\task_final\obj\Debug\net6.0\ref\task_final.dll
